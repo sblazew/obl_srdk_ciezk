@@ -1,5 +1,4 @@
 //Autor: Sebastian Blazewicz
-//grupa Z30
 //Program do obliczania wspolrzednych srodka ciezkosci z wywierconym otworem
 
 #include <iostream>
