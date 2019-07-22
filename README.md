@@ -1,6 +1,6 @@
 # obl_srdk_ciezk
 program do obliczania srodka ciezkosci
-Projekt aplikacji (dokumentacja)
+Projekt aplikacji (archived)
 1.	Część ogólna
 Projekt polegał na stworzeniu programu obliczającego współrzędne środka ciężkości metalowej płytki z wywierconym otworem. Wymiary płytki, promień otworu i jego współrzędne wprowadza użytkownik. Dane zapisywane są na liście kierunkowej. Program umożliwia wykonanie wielu obliczeń, ich wydrukowanie oraz zapisanie do pliku.
 Przyjęto założenie, że skoro mamy do czynienia z płytką, która z założenia jest płaska, otwór będzie wiercony na płaszczyźnie XY (w programie osiom nadano nazwy odpowiednio „szerokość” i „długość”), dlatego użytkownik podaje tylko dwie współrzędne wejściowe.
